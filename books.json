@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Ivan",
+    "surname": "Petrov",
+    "phone": "+79809871212",
+    "subscribed": true,
+    "favoriteBooks": [
+      {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishingYear": 1813,
+        "isbn": "1234567890",
+        "publisher": "T. Egerton"
+      },
+      {
+        "name": "1984",
+        "author": "George Orwell",
+        "publishingYear": 1949,
+        "isbn": "0987654321",
+        "publisher": "Secker & Warburg"
+      }
+    ]
+  },
+  {
+    "name": "MaX",
+    "surname": "Ivanov",
+    "phone": "+79789086567",
+    "subscribed": false,
+    "favoriteBooks": [
+      {
+        "name": "1984",
+        "author": "George Orwell",
+        "publishingYear": 1949,
+        "isbn": "0987654321",
+        "publisher": "Secker & Warburg"
+      }
+    ]
+  }
+]
